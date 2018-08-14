@@ -1,0 +1,1 @@
+Manuscript versions for this project should go in this directory.
