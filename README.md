@@ -1,2 +1,2 @@
 This repository contains the files associated with our project.
-Please contact: ahmady@uww.edu for any questions
+Please email me with any questions: ahmady@uww.edu
