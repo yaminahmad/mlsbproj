@@ -1,1 +1,0 @@
-Results files for this project should go in this directory.
